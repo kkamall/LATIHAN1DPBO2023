@@ -18,6 +18,25 @@ Setiap mahasiswa memiliki data **nama, NIM, program studi, fakultas, dan foto pr
 (khusus bahasa PHP).
 
 ## Desain Program
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/101335350/219037684-b6dc2c70-825d-4976-ab50-d9209ddb8dca.png)
+- Class Mahasiswa
+  - Atribut:
+    - nama => Nama mahasiswa.
+    - nim => NIM.
+    - prodi => Program studi mahasiswa.
+    - fakultas => Fakultas mahasiswa.
+  - Method:
+    - __init__ => Konstruktor.
+    - get_... => Mendapatkan nilai atribut.
+    - set_... => *Assign* nilai kepada atribut.
+- Class Sistem
+  - Atribut:
+    - none.
+  - Method:
+    - add_data(data_mahasiswa) => Menjalankan fungsi *create*.
+    - ubah_data(data_mahasiswa) => Menjalankan fungsi *update*.
+    - hapus_data(data_mahasiswa) => Menjalankan fungsi *delete*.
+    - tampilkan_data(data_mahasiswa) => Menjalankan fungsi *read*.
 
 ## Penjelasan Alur (Python)
 1. *Import library* dan file *class* yang digunakan.
