@@ -20,13 +20,13 @@ Setiap mahasiswa memiliki data **nama, NIM, program studi, fakultas, dan foto pr
 ## Desain Program
 
 ## Penjelasan Alur (Python)
-1. Import library dan file class yang digunakan.
+1. *Import library* dan file *class* yang digunakan.
 2. Inisialisasi variabel sesuai kebutuhan.
 3. Masuk ke dalam *looping while* untuk menjalankan fungsi **CRUD** sesuai permintaan user.
-4. Mengeluarkan output berupa menu.
-5. Pengecekan "if - else" untuk mengetahui fungsi mana yang akan dijalankan oleh user (sesuai inputan user).
-6. Menjalankan salah satu fungsi dari **CRUD** menggunakan **method** dari kelas sistem.
-7. Kembali ke langkah 3 sampai user memasukkan input fungsi berupa angka '5' (program selesai).
+4. Mengeluarkan *output* berupa menu.
+5. Pengecekan "*if - else*" untuk mengetahui fungsi mana yang akan dijalankan oleh user (sesuai inputan user).
+6. Menjalankan salah satu fungsi dari **CRUD** menggunakan *method* dari *class* sistem.
+7. Kembali ke langkah 3 sampai user memasukkan *input* fungsi berupa angka '5' (program selesai).
 8. END.
 
 ## Dokumentasi
