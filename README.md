@@ -1,4 +1,15 @@
 # [ Latihan 1 Praktikum DPBO ]
+
+## Identitas:
+- NIM: 2102313
+- Nama: Muhammad Kamal Robbani
+- Kelas: C1'21
+
+## Janji:
+Saya [Muhammad Kamal Robbani] dengan nim 2102313 mengerjakan Latihan 1 DPBO dalam mata kuliah 
+[Desain Pemrograman Berorientasi Objek] untuk keberkahan-Nya maka saya tidak melakukan 
+kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 ## Requirement Soal
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java,
 Python, dan PHP yang menampilkan informasi daftar mahasiswa (sekumpulan
