@@ -21,7 +21,7 @@ Setiap mahasiswa memiliki data **nama, NIM, program studi, fakultas, dan foto pr
 
 ## Penjelasan Alur (Python)
 1. Import library dan file class yang digunakan.
-2. Insisialisasi variabel sesuai kebutuhan.
+2. Inisialisasi variabel sesuai kebutuhan.
 3. Masuk ke dalam *looping while* untuk menjalankan fungsi **CRUD** sesuai permintaan user.
 4. Mengeluarkan output berupa menu.
 5. Pengecekan "if - else" untuk mengetahui fungsi mana yang akan dijalankan oleh user (sesuai inputan user).
