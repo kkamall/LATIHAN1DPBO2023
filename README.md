@@ -1,9 +1,9 @@
 # [ Latihan 1 Praktikum DPBO ]
 
 ## Identitas:
-- NIM: 2102313
-- Nama: Muhammad Kamal Robbani
-- Kelas: C1'21
+- NIM   : 2102313
+- Nama  : Muhammad Kamal Robbani
+- Kelas : C1'21
 
 ## Janji:
 Saya [Muhammad Kamal Robbani] dengan nim 2102313 mengerjakan Latihan 1 DPBO dalam mata kuliah 
